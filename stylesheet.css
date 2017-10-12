@@ -1,0 +1,10 @@
+body { background: lightblue;
+       color: darkblue;
+       font-size: 18pt; }
+       
+body { font-family: 'Modak', sans-serif; }
+
+h1 { font-size: 250%;
+     font-weight: bold;
+     color: darkblue; }
+h1 { border: 10px solid darkblue }
